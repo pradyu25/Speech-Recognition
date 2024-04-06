@@ -9,7 +9,6 @@ This project demonstrates speech recognition using various APIs in Python. It ca
 - Usage
 - Supported APIs
 - Contributing
-- License
 
 ## Installation
 
